@@ -42,7 +42,7 @@
 @media (max-width: 768px) {
   .modal {
     font-size: smaller;
-    width: 75%;
+    width: 80%;
     left: 12.5%;
   }
 }
