@@ -46,9 +46,6 @@
 }
 
 @media (max-width: 768px) {
-  .cart-items {
-    max-height: 25rem;
-  }
   .total {
     font-size: 1.3rem;
   }
